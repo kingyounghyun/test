@@ -52,3 +52,5 @@ st.write("모든 것을 경험이라 생각하고 도전하는 정신으로 즐�
 
 st.write("이상 김영현 자기소개를 마치겠습니다. 들어주셔서 감사합니다.😎")
 
+
+st.image("명함.JPG", caption="김영현 | 건양대학교의료원", use_column_width=True)
